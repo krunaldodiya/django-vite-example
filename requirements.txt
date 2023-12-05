@@ -1,0 +1,3 @@
+django
+uvicorn[standard]
+django_vite
